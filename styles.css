@@ -83,3 +83,13 @@ img {
     background-color: #8fac55;
     text-decoration: line-through;
 }
+
+@media screen  and (max-width: 900px) {
+    
+    .container {
+        width: 450px;
+        margin: 180px auto 0;
+    }
+
+
+}
