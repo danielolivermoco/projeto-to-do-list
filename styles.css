@@ -87,8 +87,9 @@ img {
 @media screen  and (max-width: 900px) {
     
     .container {
-        width: 410px;
+        width: 400px;
         margin: 180px auto 0;
+        padding: 15px;
     }
 
     .input-task {
