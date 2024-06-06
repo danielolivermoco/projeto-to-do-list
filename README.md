@@ -12,7 +12,7 @@
 ## Contribuição
 * Contribuições São bem-vindas! Sinta-se à vontade para clonar o repositório e enviar pull requests.
 
-## Deploy 🌐 => https://danielolivermoco.github.io/projeto-to-do-list/
+## Website 🌐➡️ https://danielolivermoco.github.io/projeto-to-do-list/
 
 <img src="https://github.com/danielolivermoco/projeto-to-do-list/blob/main/img/img%20to%20do%20list.png?raw=true">
 <img src="https://github.com/danielolivermoco/projeto-to-do-list/blob/main/img/img%202%20to%20do%20list.png?raw=true">
